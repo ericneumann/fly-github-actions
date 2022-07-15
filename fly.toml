@@ -1,6 +1,6 @@
 # fly.toml file generated for fly-hello-rails on 2022-03-24T21:58:29+01:00
 
-app = "fly-hello-rails"
+app = "fly-github-actions"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
